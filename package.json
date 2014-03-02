@@ -1,0 +1,16 @@
+{
+  "name": "discountable",
+  "description": "Apply a dollar amount or percent-based discount to a dollar amount.",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Chris McC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/speedmanly/discountable.git"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
