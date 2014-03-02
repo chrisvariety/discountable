@@ -2,7 +2,7 @@
   "name": "discountable",
   "version": "1.0.0",
   "description": "Apply a dollar amount or percent-based discount to a dollar amount.",
-  "main": [ "main.js" ],
+  "main": [ "index.js" ],
   "dependencies": {
   },
   "repository": {
@@ -20,8 +20,7 @@
     "bower_components",
     "bower.json",
     "package.json",
-    "test",
-    "lib",
+    "test.js",
     "node_modules",
     "Makefile"
   ]
